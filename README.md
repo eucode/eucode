@@ -1,7 +1,8 @@
 <h3 align="center">👋 Hey! Nice to see you.</h3>
 <p align="center">
-  <a href="https://www.eucode.net">Website</a> •
-  <a href="https://discord.gg/bccq7mtG24">Discord</a>
+  <a href="https://www.youtube.com/EuCode">YouTube</a> •
+  <a href="https://discord.eucode.net">Discord</a> •
+  <a href="https://telegram.eucode.net">Telegram</a>
 </p>
 
 ---
