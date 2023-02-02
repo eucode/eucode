@@ -1,28 +1,31 @@
 <h3 align="center">👋 Hey! Nice to see you.</h3>
 <p align="center">
-  <a href="https://www.youtube.com/EuCode">YouTube</a> •
-  <a href="https://discord.eucode.net">Discord</a> •
-  <a href="https://telegram.eucode.net">Telegram</a>
+  <a href="https://www.youtube.com/EuCode">
+    <img alt="YouTube" width="22px" src="https://www.svgrepo.com/show/13671/youtube.svg"/>
+  </a>
+  
+  <a href="https://discord.eucode.net">
+    <img alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/>
+  </a>
+
+  <a href="https://telegram.eucode.net">
+    <img alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/>
+  </a>
 </p>
 
 ---
 <p>
-👨🏻‍💻 I'm Mathias. 19 years old and im a lover of code and security.</br>
-💼 I live in <img src="https://cdn-icons-png.flaticon.com/512/323/323325.png" width="13"/> Turin, Italy.</br>
-🎮 In my free time I like to play videogames.
+I'm EuCode, fullstack developer and cyber security analyst from <img src="https://cdn-icons-png.flaticon.com/512/323/323325.png" width="13"/> Turin, Italy.
 </p>
 
-<!--
-I'm EuCode, Back-end developer from Turin, Italy <img src="https://cdn-icons-png.flaticon.com/512/323/323325.png" width="13"/>.
--->
-
-
-<h3>Things I code with</h3>
+<h3>Things I code with:</h3>
 <p>
   <img alt="CSharp" src="https://img.shields.io/badge/-CSharp-621F73?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00589D?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-96948f?style=flat-square&logo=c&logoColor=white" />
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-000081?style=flat-square&logo=lua&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-506eab?style=flat-square&logo=PHP&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
