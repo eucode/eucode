@@ -5,7 +5,7 @@
   </a>
   
   <a href="https://discord.eucode.net">
-    <img alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/>
+    <img alt="Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg"/>
   </a>
 
   <a href="https://telegram.eucode.net">
@@ -15,7 +15,7 @@
 
 ---
 <p>
-I'm EuCode, fullstack developer and cyber security analyst from <img src="https://cdn-icons-png.flaticon.com/512/323/323325.png" width="13"/> Turin, Italy.
+I'm EuCode, fullstack developer and cyber security analyst from <img src="https://cdn-icons-png.flaticon.com/512/6157/6157580.png" width="13"/> Zürich, Switzerland.
 </p>
 
 <h3>Things I code with:</h3>
